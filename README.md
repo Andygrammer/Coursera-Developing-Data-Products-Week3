@@ -1,1 +1,3 @@
-# Coursera-Developing-Data-Products-Week3
+# Coursera - Developing Data Products: Week 3 Assignment
+
+Link: https://rpubs.com/andrevaladao/CourseraDDPWeek3
